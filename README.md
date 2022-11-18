@@ -1,11 +1,11 @@
 <h2 style="border-bottom: none"> 👋 Hi, I'm Carolina <p></p></h2>
 
-<ul>
-  <li> 📍 I'm a Brazilian living in Barcelona. </li>
-<li> 📚 I've graduated in Pure Mathematics at <a href="http://www.ufrgs.br/ufrgs/inicial">Univeridade Federal do Rio Grande do Sul. </a> </li>
-  <li> 💻 I'm studying Big Data at <a href="https://keepcoding.io/">Keepcoding. </a></li>
-<li> 🌐 I'm fluent in Portuguese, English, and Spanish. </li>
-</ul>
+
+📍 I'm a Brazilian living in Barcelona.<br />
+📚 I've graduated in Pure Mathematics at <a href="http://www.ufrgs.br/ufrgs/inicial">Univeridade Federal do Rio Grande do Sul. </a> <br />
+💻 I'm studying Big Data at <a href="https://keepcoding.io/">Keepcoding. </a> <br />
+🌐 I'm fluent in Portuguese, English, and Spanish.
+
 
 <h2></h2>
 <h4>Languages and Tools I've used: </h4>
