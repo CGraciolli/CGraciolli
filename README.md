@@ -1,7 +1,7 @@
 <h2 style="border-bottom: none"> 👋 Hi, I'm Carolina <p></p></h2>
 
 
-📍 I'm a Brazilian living in Barcelona.<br />
+📍 I'm from Brazil and living in Spain.<br />
 📚 I have a degree in Pure Mathematics from <a href="http://www.ufrgs.br/ufrgs/inicial">Univeridade Federal do Rio Grande do Sul. </a> <br />
 💻 I'm studying Big Data at <a href="https://keepcoding.io/">Keepcoding. </a> <br />
 🌐 I'm fluent in Portuguese, English, and Spanish.
