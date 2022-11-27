@@ -26,6 +26,7 @@
  <div>
   <a href="mailto:cgraciolli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/carolina-graciolli-siqueira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/Graciolli/" target="_blank"><img src="https://user-images.githubusercontent.com/112963325/204151091-67dd22eb-db0f-4f9d-a9df-3bf296c88982.png" height=28.5px></a>
   </div>
   
- 
+
