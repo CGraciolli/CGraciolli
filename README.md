@@ -3,8 +3,9 @@
 
 📍 I'm from Brazil and living in Spain.<br />
 📚 I have a degree in Pure Mathematics from <a href="http://www.ufrgs.br/ufrgs/inicial">Univeridade Federal do Rio Grande do Sul. </a> <br />
-💻 I'm studying Big Data at <a href="https://keepcoding.io/">Keepcoding. </a> <br />
+💻 I'm studying data engeneering at <a href="https://keepcoding.io/">Keepcoding. </a> <br />
 🌐 I'm fluent in Portuguese, English, and Spanish.
+🧮 I also enjoy solving data structure and algorithms problems in <a href="https://leetcode.com/Graciolli/">LeetCode</a> and math problems in <a href="https://projecteuler.net/progress=graciolli">Project Euler.</a>
 
   ![Snake animation](https://github.com/Yumi-Namie/Yumi-Namie/blob/output/github-contribution-grid-snake.svg)
 
