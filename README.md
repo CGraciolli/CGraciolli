@@ -7,6 +7,7 @@
 🌐 I'm fluent in Portuguese, English, and Spanish. <br>
 🧮 I also enjoy solving data structure and algorithms problems on <a href="https://leetcode.com/Graciolli/">LeetCode</a> and math problems on <a href="https://projecteuler.net/progress=graciolli">Project Euler.</a>
 
+![snake svg](https://github.com/CGraciolli/CGraciolli/blob/output/github-contribution-grid-snake.svg)
 
 <h2></h2>
 <h4>Languages and Tools I've used: </h4>
