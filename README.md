@@ -37,6 +37,9 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
 </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+<img src="https://camo.githubusercontent.com/63ed61543d9b61f9e6a112f81476b26805207907ed98c67ebcf5f8cecba84c06/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7273747564696f2f7273747564696f2d6f726967696e616c2e737667" alt="r" width="40" height=40">
+</a>
 </div>
  
  <h2></h2>  
