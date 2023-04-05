@@ -19,6 +19,9 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="python" width="40" height="40"/>
 </a>
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/112963325/230005325-644128e7-ba5c-44c8-89eb-1abd3759e396.png" alt="r" width="40" height=40">
+</a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" />
 </a>
