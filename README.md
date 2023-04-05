@@ -3,7 +3,7 @@
 
 📍 I'm from Brazil and living in Spain.<br />
 📚 I have a degree in Pure Mathematics from <a href="http://www.ufrgs.br/ufrgs/inicial">Universidade Federal do Rio Grande do Sul. </a> <br />
-💻 I'm studying data engineering at <a href="https://keepcoding.io/">Keepcoding. </a> <br />
+💻 I did a Data Bootcamp at <a href="https://keepcoding.io/">Keepcoding. </a> <br />
 🌐 I'm fluent in Portuguese, English, and Spanish. <br>
 🧮 I also enjoy solving data structure and algorithms problems on <a href="https://leetcode.com/Graciolli/">LeetCode</a> and math problems on <a href="https://projecteuler.net/progress=graciolli">Project Euler.</a>
 
